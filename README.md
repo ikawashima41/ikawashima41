@@ -4,8 +4,8 @@
 class MyProfile {
    let name: String = "Iichiro Kawashima"
    let company: String = "Caraquri Inc."
-   var currentJob: String = "iOS Developer"
-   var favoriteLanguage: String = "Swift"
+   var currentJob: String = "Software engineer"
+   var language: String = "Swift, Kotlin, TypeScript, Ruby"
 }
 
 ```
